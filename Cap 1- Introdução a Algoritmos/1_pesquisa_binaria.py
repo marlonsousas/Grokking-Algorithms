@@ -19,7 +19,7 @@ def pesquisa_binaria(lista, item):
     return None
 
 
-minha_lista = [1, 3, 5, 7, 9]
+minha_lista = [1, 3, 5, 7, 9, 11] 
 
 print(pesquisa_binaria(minha_lista, 7))
 print(pesquisa_binaria(minha_lista, -1))
